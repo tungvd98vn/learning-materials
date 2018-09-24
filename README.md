@@ -1,10 +1,10 @@
-This repo contains the learning materials for Vertas team members. 
+This repo contains the learning materials for Vertas team members. Below are just suggested tutorials, you can learn from any other source.
 
 Current deadline to learn all topics is November 24nd 2018.
 
 Happy coding!
 
-*For a complete study map visit: https://github.com/kamranahmedse/developer-roadmap
+*For a complete study map visit: https://github.com/kamranahmedse/developer-roadmap*
 
 
 ## Recommended tools
@@ -21,6 +21,7 @@ IDE: https://www.jetbrains.com/student/
 - https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example
 
 2. Bulma.io
+- https://scrimba.com/g/gbulma
 - http://libgen.io/book/index.php?md5=85D3A80D739A03B59E61A491D723F397
 - https://youtu.be/IiPQYQT2-wg
 
