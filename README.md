@@ -1,16 +1,17 @@
-This repo contains the learning materials for Vertas team members. Contents will be updated frequently. Feel free to add more contents.
+This repo contains the learning materials for Vertas team members. 
 
-Current deadline to finish all materials is November 22nd 2018.
+Current deadline to learn all topics is November 24nd 2018.
 
 Happy coding!
 
-<sub> For a more detailed study path visit: https://github.com/kamranahmedse/developer-roadmap
+*For a complete study map visit: https://github.com/kamranahmedse/developer-roadmap
+
 
 ## Recommended tools
 
 Git: https://www.sourcetreeapp.com
 
-IDE & editors: https://www.jetbrains.com/student/
+IDE: https://www.jetbrains.com/student/
 
 
 ## Frontend
@@ -19,7 +20,8 @@ IDE & editors: https://www.jetbrains.com/student/
 - https://scrimba.com/g/glearnvue
 - https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example
 
-2. Bulma
+2. Bulma.io
+- http://libgen.io/book/index.php?md5=85D3A80D739A03B59E61A491D723F397
 - https://youtu.be/IiPQYQT2-wg
 
 
@@ -31,6 +33,7 @@ IDE & editors: https://www.jetbrains.com/student/
 
 2. Django
 - https://tutorial.djangogirls.org/en/
+- https://youtu.be/yyt3tQYW3g0
 
 3. PostgreSQL
 - https://tutorial-extensions.djangogirls.org/en/optional_postgresql_installation/
