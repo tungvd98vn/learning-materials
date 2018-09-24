@@ -12,6 +12,7 @@ Git: https://www.sourcetreeapp.com
 
 IDE & editors: https://www.jetbrains.com/student/
 
+
 ## Frontend
 
 1. Vue.js
@@ -20,6 +21,7 @@ IDE & editors: https://www.jetbrains.com/student/
 
 2. Bulma
 - https://youtu.be/IiPQYQT2-wg
+
 
 ## Backend
 
@@ -34,6 +36,6 @@ IDE & editors: https://www.jetbrains.com/student/
 - https://tutorial-extensions.djangogirls.org/en/optional_postgresql_installation/
 - https://www.postgresql.org/docs/current/static/tutorial.html
 
-4. Deployment
+4. Miscellaneous
 - https://codeburst.io/beginners-guide-to-deploying-a-django-postgresql-project-on-google-cloud-s-flexible-app-engine-e3357b601b91
-
+- https://wsvincent.com/django-docker-postgresql/
