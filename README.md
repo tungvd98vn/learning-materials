@@ -17,6 +17,7 @@ IDE: https://www.jetbrains.com/student/
 ## Frontend
 
 1. Vue.js
+- https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance
 - https://scrimba.com/g/glearnvue
 - https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example
 
